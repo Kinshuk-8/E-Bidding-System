@@ -98,7 +98,7 @@ Follow these steps to install and run the project locally:
 1. **Clone the repository:**
 
    ------------------------------------------------------------
-   git clone https://github.com/Sathvik-G15/E-Bidding.git
+   git clone https://github.com/Kinshuk-8/E-Bidding-System
    ------------------------------------------------------------
 
 2. **Backend Installation:**
